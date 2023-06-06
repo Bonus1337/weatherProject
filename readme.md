@@ -36,12 +36,3 @@ This server is very straightforward to use.
 
 The server will send a request to the OpenWeatherMap API to fetch the weather information and display the result on the page.
 
-## Contribute
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your_username/your_project_name/issues).
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-Remember to replace `your_username` and `your_project_name` with your actual GitHub username and the name of your repository.
